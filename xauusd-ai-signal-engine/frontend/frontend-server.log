@@ -1,0 +1,15 @@
+
+> dev
+> next dev --hostname 127.0.0.1 --port 3000
+
+▲ Next.js 16.2.6 (Turbopack)
+- Local:         http://127.0.0.1:3000
+- Network:       http://127.0.0.1:3000
+✓ Ready in 5.5s
+Creating turbopack project {
+  dir: 'C:\\Users\\Mikaella\\OneDrive\\Documents\\GitHub\\XAUUSD AI Signal Engine\\xauusd-ai-signal-engine\\frontend',
+  testMode: true
+}
+
+○ Compiling / ...
+ GET / 200 in 4.9s (next.js: 4.5s, application-code: 425ms)
